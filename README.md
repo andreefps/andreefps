@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreefps&label=Profile%20views&color=0e75b6&style=flat" alt="andreefps" /> </p>
 
-- 🔭 I’m currently working at [Junto Seguros](@JMSeguradora)
+- 🔭 I’m currently working at [Junto Seguros](http://github.com/GitJMSeguradora)
 
 - 🌱 I’m currently learning **NodeJS, GraphQL, TDD**
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **andreefps@gmail.com**
 
-- 📄 Know more about my experiences [andreefps.github.io](andreefps.github.io)
+- 📄 Know more about my experiences [andreefps.github.io](http://andreefps.github.io)
 
 </br>
 <h3 align="left">Tech Stack:</h3>

@@ -1,5 +1,4 @@
 <h1 align="left">Hey, I'm Andre 👋</h1>
-<h3 align="left">A Front-End developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreefps&label=Profile%20views&color=0e75b6&style=flat" alt="andreefps" /> </p>
 

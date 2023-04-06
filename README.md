@@ -8,7 +8,6 @@
 
 - 📫 Reach me at **andreefps@gmail.com**
 
-- 📄 Know more about my experiences [andreefps.github.io](http://andreefps.github.io)
 
 </br>
 <h3 align="left">Tech Stack:</h3>

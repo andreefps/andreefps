@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NodeJS, GraphQL, TDD**
 
-- 💬 Ask me about **React, TypeScript, CS-GO, Skateboarding, Rap**
+- 💬 Ask me about **React, TypeScript, NextJs, Football, Skateboarding, Music**
 
 - 📫 Reach me at **andreefps@gmail.com**
 

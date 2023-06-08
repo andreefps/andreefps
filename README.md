@@ -10,6 +10,7 @@
 
 
 </br>
+</br>
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +18,4 @@
 </p>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreefps&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&count_private=true" alt="andreefps" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreefps&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="andreefps" /></p>
+

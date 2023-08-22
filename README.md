@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreefps&label=Profile%20views&color=0e75b6&style=flat" alt="andreefps" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, GraphQL, TDD**
-
 - 💬 Ask me about **React, TypeScript, NextJs, Football, Skateboarding, Music**
 
 - 📫 Reach me at **andreefps@gmail.com**

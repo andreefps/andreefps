@@ -1,17 +1,41 @@
-<h1 align="left">Hey, I'm Andre 👋</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreefps&label=Profile%20views&color=0e75b6&style=flat" alt="andreefps" /> </p>
-
-- 💬 Ask me about **React, TypeScript, NextJs, Football, Skateboarding, Music**
-
-- 📫 Reach me at **andreefps@gmail.com**
-
-<div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andreefps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreefps/" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Andre 👋</h1>
+<p align="center">
+  Developer focused on clean, fast user experiences  
 </p>
-  </div>
+<p align="center" style="font-size: 2rem;">
+  ☕️ 🎵 🛹 🚴 🎮 💻
+</p>
 
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreefps&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&count_private=true" alt="andreefps" /></p>
 
+---
+
+## 🚀 What I'm Working On
+
+✍️ [kavira.app](https://kavira.app)  - A minimalist productivity app for notes, tasks, and focus. designed to help you get things done.
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=next.js&logoColor=ffffff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-161B22?style=flat-square&logo=tailwind-css&logoColor=38B2AC)  
+![Node.js](https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=blue)
+
+---
+
+## 📫 Connect with Me
+
+Linkedin: [linkedin.com/in/andreefps](www.linkedin.com/in/andreefps)  
+Email: andreefps@gmail.com
+
+---
+
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreefps&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&count_private=true" alt="Top languages" />
+</p>

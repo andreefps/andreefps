@@ -11,6 +11,7 @@
 
 ## 🚀 What I'm Working On
 
+✍️ [hubnotes.app](https://hubnotes.app)  - AI based SaaS helping sales teams to save time on crm inputs, discovery calls analysis and more.
 ✍️ [kavira.app](https://kavira.app)  - A minimalist productivity app for notes, tasks, and focus. designed to help you get things done.
 
 

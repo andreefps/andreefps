@@ -4,6 +4,7 @@
 </p>
 <p align="center" style="font-size: 2rem;">
   ☕️ 🎵 🛹 🚴 🎮 💻
+<br><a align="center" style="font-size: 2rem;" href="https://andreefps.vercel.app">andreefps.vercel.app</a>
 </p>
 
 
@@ -31,8 +32,8 @@
 ---
 
 ## 📫 Connect with Me
-
-Linkedin: [linkedin.com/in/andreefps](www.linkedin.com/in/andreefps)  
+Porfolio: [andreefps.vercel.app](https://www.andreefps.vercel.app)  
+Linkedin: [linkedin.com/in/andreefps](https://www.linkedin.com/in/andreefps)  
 Email: andreefps@gmail.com
 
 ---
